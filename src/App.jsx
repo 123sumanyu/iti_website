@@ -32,7 +32,7 @@ import ParaLayout from "./departments/paramedical/ParaLayout";
 import ParaHome from "./departments/paramedical/ParaHome";
 import ParaAbout from "./departments/paramedical/ParaAbout";
 import ParaGallery from "./departments/paramedical/ParaGallery";
-import ParaContact from "./departments/paramedical/ParaContact";
+import ParaContact from "./departments/paramedical/Paracontact";
 
 
 
